@@ -1,7 +1,7 @@
 {
     "name": "cra-template-louismeunier",
     "description": "@louismeunier custom CRA template, with Typescript, Tailwind, Prettier",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "keywords": [
         "cra-template",
         "react",
