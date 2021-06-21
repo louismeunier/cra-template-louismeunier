@@ -1,0 +1,23 @@
+{
+    "name": "cra-template-louismeunier",
+    "description": "@louismeunier custom CRA template, with Typescript, Tailwind, Prettier",
+    "version": "0.2.0",
+    "keywords": [
+        "cra-template",
+        "react",
+        "typescript",
+        "prettier",
+        "tailwindcss"
+    ],
+    "main": "template.json",
+    "author": "louismeunier",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/louismeunier/cra-template-louismeunier"
+    },
+    "files": ["template", "template.json"],
+    "engines": {
+        "node": ">=10"
+    }
+} 
