@@ -6,13 +6,6 @@
       "dom.iterable",
       "esnext"
     ],
-    "baseUrl": ".",
-    "paths": {
-      "@components": ["src/components"],
-      "@logic": ["src/logic"],
-      "@utils": ["src/utils"],
-      "@types": ["src/@types"]
-    },
     "allowJs": false,
     "skipLibCheck": true,
     "esModuleInterop": true,
